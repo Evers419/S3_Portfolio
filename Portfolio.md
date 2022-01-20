@@ -47,6 +47,13 @@ info about c2 diagram
 For web application I build a react SPA that could communicate with services.
 This web application used React for the frontend and Kotlin with JPA in the backend.
 
+As services I used RaccoonService and HobbyService.
+Raccool requests raccoons from RaccoonService
+
+RaccoonService requests a hobby from hobbyservice and a name from randommer.io, an external api.
+
+RaccoonService returns raccoons to raccool.
+
 ### 2. Software Quality
 
 For software quality I utilised code reviews in the group project. 
