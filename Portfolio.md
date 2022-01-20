@@ -44,16 +44,28 @@ info about c2 diagram
 
 ![C2 diagram](/portfolio_images/Raccool_C2_Containers_Diagram.drawio.png)
 
-#### C3
-info about c3 diagram
 
-![C3 diagram](/portfolio_images/Raccool_C3_Components_Diagram.drawio.png)
+## Learning outcomes
 
-#### C4
-info about c4 diagram
+### 1. Web Application
 
-![C4 diagram](/portfolio_images/Raccool_C4_Code_Diagram.drawio.png)
+For web application I build a react SPA that could communicate with services.
+This web application used React for the frontend and Kotlin with JPA in the backend.
 
+### 2. Software Quality
 
-## About Basket
-I will add this later
+For software quality I utilised code reviews in the group project. 
+In addition for the IPS I wrote tests verifying user stories.
+
+### 3. CI/CD
+
+For CI/CD I setup actions in git to automaticaly run checks on branches which need to pass before a merge/push.
+Docker is also used to automaticaly deploy a docker container.
+
+### 4. Professional
+
+For professional development I focused on the project board, in which I logged issues and the status of the issue. Furthermore I can see which issues are linked to which pull request
+
+I also focused on what's known as the GitHub flow. This means that to work on a feature you'd: create a branch of the desired branch to work on, make changes, make a pull request back to the desired branch, have it reviewed, merge, delete the branch your own branch.
+
+Finally I started work on research. This research is about social engineering and how it circumvents traditional security measures.
