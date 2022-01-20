@@ -7,3 +7,5 @@ This includes:
 - Research: for the group project and individual project.
 - racool: the frontend for my IPS. https://github.com/Evers419/raccool
 - RaccoonServices: the backend services for my IPS https://github.com/Evers419/RaccoolServices
+
+## Look at the READERS GUIDE!

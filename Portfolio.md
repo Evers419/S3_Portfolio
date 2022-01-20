@@ -61,8 +61,8 @@ In addition for the IPS I wrote tests verifying user stories.
 
 ### 3. CI/CD
 
-For CI/CD I setup actions in git to automaticaly run checks on branches which need to pass before a merge/push.
-Docker is also used to automaticaly deploy a docker container.
+For CI/CD I setup actions in git to automaticaly run checks on branches which need to pass before a merge/push. this can be found in raccool.
+Docker is also used to automaticaly deploy a docker container. Which is done automaticaly through gitactions in raccool.
 
 ### 4. Professional
 
