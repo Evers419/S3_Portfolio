@@ -27,11 +27,6 @@ Because of this I do not expect noSQL to give me significant benefits over SQL.
 ## Beginning of the project
 User stories were made and are visible on the project board.
 
-### Github workflow
-info about github workflow
-
-![Github workflow](/portfolio_images/Github_Workflow.drawio.png)
-
 ### C4 Diagrams
 
 #### C1
