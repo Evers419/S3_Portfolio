@@ -47,6 +47,10 @@ info about c2 diagram
 For web application I build a react SPA that could communicate with services.
 This web application used React for the frontend and Kotlin with JPA in the backend.
 
+This can be found in Raccool.
+
+In the group project I was responsible for the basket and have thus made the component and logic for it.
+
 ### 2. Software Quality
 
 For software quality I utilised code reviews in the group project. 
@@ -54,8 +58,8 @@ In addition for the IPS I wrote tests verifying user stories.
 
 ### 3. CI/CD
 
-For CI/CD I setup actions in git to automaticaly run checks on branches which need to pass before a merge/push.
-Docker is also used to automaticaly deploy a docker container.
+For CI/CD I setup actions in git to automaticaly run checks on branches which need to pass before a merge/push. this can be found in raccool.
+Docker is also used to automaticaly deploy a docker container. Which is done automaticaly through gitactions in raccool.
 
 ### 4. Professional
 
